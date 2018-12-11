@@ -1,3 +1,4 @@
 # vector_opt
-for execition just execute exe file from
+execition steps:
+1) execute exe file from
 ./Release/optimizationVector.exe
