@@ -1,0 +1,4 @@
+﻿  optimizationVector.cpp
+c:\users\mik\documents\visual studio 2017\projects\optimizationvector\optimizationvector\optimizationvector.cpp(27): warning C4068: unknown pragma
+  optimizationVector.vcxproj -> C:\Users\mik\documents\visual studio 2017\Projects\optimizationVector\x64\Debug\optimizationVector.exe
+  optimizationVector.vcxproj -> C:\Users\mik\documents\visual studio 2017\Projects\optimizationVector\x64\Debug\optimizationVector.pdb (Partial PDB)
